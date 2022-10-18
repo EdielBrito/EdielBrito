@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9ACD32&height=120&section=header"/>
 
 <div align="center">
   <a href="https://github.com/edielbrito">
@@ -34,4 +35,6 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{edielbrito}/count.svg" /></p> 
-<br></div>
+<br>
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9ACD32&height=120&section=footer"/>
