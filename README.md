@@ -1,14 +1,13 @@
 
 <div align="center">
   <a href="https://github.com/edielbrito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edielbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-</div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edielbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </div>
   
 ##
   
  <div align="center"><br>
-    <h3>Studying in this moment:</h3>
+    <h3>Studying in this moment</h3>
    <img align="center" alt="EdielBrito-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="EdielBrito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="EdielBrito-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,4 +31,7 @@
 ##
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=EdielBrito&bg_color=efffd1&color=8adbad&line=80e651&point=94ab73&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{edielbrito}/count.svg" /></p> 
+<br></div>
