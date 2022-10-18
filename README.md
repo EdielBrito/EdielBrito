@@ -2,7 +2,8 @@
 <div align="center">
   <a href="https://github.com/edielbrito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edielbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </div>
+  
+</div>
   
   ##
   
@@ -12,8 +13,11 @@
    <img align="center" alt="EdielBrito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="EdielBrito-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="EdielBrito-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   
- </div>
+  </div>
+  
+ <div align="center"><br>
+  <img align="center" alt="edielgif" center="100" style="border-radius:10px;" src="https://media3.giphy.com/media/hENDkVRxKsctCpuAun/giphy.gif?cid=ecf05e47yvbzw63razjzxv20rmyq671zn07s8pfgtiuw5ozj&rid=giphy.gif&ct=g">
+  </div>
  
  ##
 
