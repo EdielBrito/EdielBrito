@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/edielbrito">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edielbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=edielbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </div>
   <div align="height"><br>
    <h3>Studying in this moment</h3>
