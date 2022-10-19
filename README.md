@@ -4,10 +4,7 @@
   <a href="https://github.com/edielbrito">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edielbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </div>
-  
-##
-  
- <div align="height"><br>
+  <div align="height"><br>
    <h3>Studying in this moment</h3>
    <img align="center" alt="EdielBrito-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="EdielBrito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
